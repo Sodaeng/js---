@@ -27,6 +27,7 @@
 	  		  document.querySelector("#result").innerHTML+= `<div>${star}</div>`;
         }
 	  	}
+      //완료
     </script>
 </body>
 </html>
